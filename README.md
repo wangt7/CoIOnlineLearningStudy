@@ -1,1 +1,1 @@
-# CoIOnlineLearningStudy
+The repository contains the study instruments for the "Exploring the Community of Inquiry in Online CS Learning: Student Perceptions and Opportunities for Generative AI" project. The file "Survey Questions.pdf" includes the survey questions distributed to the participants.
